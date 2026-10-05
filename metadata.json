@@ -1,0 +1,6 @@
+{
+  "name": "MindHarbor: Student Mental Wellness & Coping Hub",
+  "description": "An interactive, age-tailored emotional wellness app for Primary and Secondary students to explore personality, assess anxiety levels, and receive personalized coping tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
